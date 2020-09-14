@@ -1,7 +1,4 @@
 addsgdt
-<<<<<<< HEAD
-wwww
-=======
 mmmmmmmmmeee
 bbb
->>>>>>> f297f98c4a1b0331b8980351454f5f903b1197bc
+
